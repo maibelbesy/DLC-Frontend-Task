@@ -1,0 +1,34 @@
+[{
+    "firstname": "Mai",
+    "lastname": "Belbesy",
+    "username": "maibelbesy",
+    "password": "12345678",
+    "email": "mai@gmail.com",
+    "status": false
+  },
+   {
+    "firstname": "Ahmed",
+    "lastname": "Elhamy",
+    "username": "ahmedelhamy",
+    "password": "12345678",
+    "email": "ahmed@gmail.com",
+    "status": true
+  },
+   {
+    "firstname": "menna",
+    "lastname": "meligy",
+    "username": "mennameligy",
+    "password": "12345678",
+    "email": "menna@gmail.com",
+    "status": true
+  },
+   {
+    "firstname": "hadeel",
+    "lastname": "fouad",
+    "username": "hadeelfouad",
+    "password": "12345678",
+    "email": "hadeel@gmail.com",
+    "status": true
+  }
+
+]
